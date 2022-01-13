@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642086781 source:c:\users\48788\onedrive\pulpit\nauka\algorytmyprojekt\projekt 3\projekt\main.cpp
+	<iostream>
+	"opracujgraf.h"
+	<fstream>
+
+1642098559 source:c:\users\48788\onedrive\pulpit\nauka\algorytmyprojekt\projekt 3\projekt\opracujgraf.cpp
+	<iostream>
+	<fstream>
+	"opracujgraf.h"
+
+1642029630 c:\users\48788\onedrive\pulpit\nauka\algorytmyprojekt\projekt 3\projekt\opracujgraf.h
+

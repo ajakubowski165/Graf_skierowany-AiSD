@@ -1,0 +1,58 @@
+
+
+1. Sasiedzi kazdego wierzcholka grafu:
+W0 - sasiedzi:  W0 W3
+W1 - sasiedzi:  W7 W7
+W2 - sasiedzi: 
+W3 - sasiedzi:  W6 W1
+W4 - sasiedzi: 
+W5 - sasiedzi:  W0
+W6 - sasiedzi:  W2
+W7 - sasiedzi: 
+W8 - sasiedzi:  W9
+W9 - sasiedzi:  W8
+W10 - sasiedzi:  W2 W3
+
+
+2. Wierzcholki, ktore sa sasiadami kazdego wierzcholka
+
+
+3. Stopnie wychodzace wierzcholkow
+W0 - stopien wychodzacy: 2
+W1 - stopien wychodzacy: 2
+W2 - stopien wychodzacy: 0
+W3 - stopien wychodzacy: 2
+W4 - stopien wychodzacy: 0
+W5 - stopien wychodzacy: 1
+W6 - stopien wychodzacy: 1
+W7 - stopien wychodzacy: 0
+W8 - stopien wychodzacy: 1
+W9 - stopien wychodzacy: 1
+W10 - stopien wychodzacy: 2
+
+
+4. Stopnie wchodzace wierzcholkow
+W0 - stopien wchodzacy: 2
+W1 - stopien wchodzacy: 1
+W2 - stopien wchodzacy: 2
+W3 - stopien wchodzacy: 2
+W4 - stopien wchodzacy: 0
+W5 - stopien wchodzacy: 0
+W6 - stopien wchodzacy: 1
+W7 - stopien wchodzacy: 2
+W8 - stopien wchodzacy: 1
+W9 - stopien wchodzacy: 1
+W10 - stopien wchodzacy: 0
+
+
+5. Wierzcholki izolowane
+W4 - jest wierzcholkiem  izolowanym
+
+
+6. Petle
+W0 - posiada petle
+
+
+7. Krawedzie dwukierunkowe
+Krawedz dwukierunkowa laczy wierzcholek W8 z wierzcholkiem W9
+Krawedz dwukierunkowa laczy wierzcholek W9 z wierzcholkiem W8
